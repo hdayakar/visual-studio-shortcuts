@@ -1,4 +1,5 @@
-# visual studio 2017 keyboard shortcuts
+# Keyboard shortcuts
+for Visual studio 2017
 
 ## Text navigation
 * **Page Down** to scroll down
@@ -58,3 +59,29 @@
 * **F11** to step into a method
 * **Shift+F11** to step out of a method
 
+## Compiling the Application
+* **Ctrl+Shift+B** to build the application
+* **F8** to cycle through the errors
+* **Alt+Tab** to switch between the open applications
+* **Ctrl+R** to refresh the current page in the browser
+
+## Code Snippets
+* **class** to create a class
+* **ctor** to create a constructor
+* **prop** to create an auto-implemented property
+* **propfull** to create a property with private field
+* **equals** to override the equals method of the object class
+* **for** to create a for loop
+* **forr** to create a for loop that decrements the loop variable
+
+## Formatting Code
+* **Tab** to move the selection one tab stop to the right
+* **Shift+Tab** to move the selection one tab stop to the left
+* **Ctrl+K Ctrl+F** to format the code
+* Install Visual Studio Productivity Power Tools
+
+## VisualSVN
+* Use **VisualSVN** to integrate Subversion into Visual Studio
+* **Alt+U, C** to view the commit dialog
+* **Alt+U, U** to view the update dialog
+* **Alt+U, L** to view the log
