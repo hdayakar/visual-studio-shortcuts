@@ -1,5 +1,4 @@
-# visual-studio-shortcuts
-Keyboard shortcuts for visual studio
+# visual studio 2017 keyboard shortcuts
 
 ## Text navigation
 * **Page Down** to scroll down
