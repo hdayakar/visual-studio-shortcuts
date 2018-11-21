@@ -85,3 +85,16 @@ for Visual studio 2017
 * **Alt+U, C** to view the commit dialog
 * **Alt+U, U** to view the update dialog
 * **Alt+U, L** to view the log
+
+## Quick launch and Go to All search
+* **Ctrl+T** to open go to all search dialog where user can search by symbols, line, files, members, recent files or types.
+* **Ctrl+Q** to open quick launch dialog where user can search for visual studio features
+
+
+## Navigate forward and backward
+* **Ctrl+-** to navigate backward
+* **Ctrl+Shift+-** to navigate forward
+
+
+## Show code definition window
+* **Ctrl+\, D** to open code definition window where user can see a quick preview of select definition.
